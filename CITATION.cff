@@ -4,6 +4,8 @@ title: "Tidal Time Series Generator — BIG SRGI"
 version: 1.0.0
 date-released: 2026-10-11
 license: MIT
+doi: 10.5281/zenodo.23296857
+repository-code: "https://github.com/sipilnukuyudit-coder/tidal-generator-big-srgi"
 authors:
   - family-names: Priambodo
     given-names: Yudit Agus

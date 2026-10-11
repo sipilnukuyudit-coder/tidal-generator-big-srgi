@@ -1,5 +1,7 @@
 # Tidal Time Series Generator — BIG SRGI
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23296857.svg)](https://doi.org/10.5281/zenodo.23296857)
+
 Aplikasi Python berantarmuka grafis untuk menyusun **kondisi batas hilir pasang surut** bagi pemodelan banjir pesisir HEC-RAS 2D, berbasis data prediksi pasang surut Badan Informasi Geospasial (portal SRGI).
 
 *A Python GUI tool that converts BIG SRGI tide predictions into datum-consistent downstream boundary conditions for HEC-RAS 2D coastal flood models.*
@@ -43,7 +45,7 @@ Repositori ini tidak menyertakan data BIG. Silakan unduh langsung dari portal SR
 
 Jika memakai aplikasi ini, mohon sitasi:
 
-> Priambodo, Y. A. (2026). *Tidal Time Series Generator — BIG SRGI* (versi 1.0.0) [perangkat lunak]. https://doi.org/[DOI Zenodo]
+> Priambodo, Y. A. (2026). *Tidal Time Series Generator — BIG SRGI* (versi 1.0.0) [perangkat lunak]. https://doi.org/10.5281/zenodo.23296857
 
 Serta makalah terkait:
 
