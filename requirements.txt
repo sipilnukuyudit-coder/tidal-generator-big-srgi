@@ -1,0 +1,5 @@
+numpy
+matplotlib
+utide
+# opsional, untuk menghitung N EGM2008 secara lokal:
+# pyproj

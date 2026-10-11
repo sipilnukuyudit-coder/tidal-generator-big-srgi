@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Jika memakai perangkat lunak ini, mohon sitasi seperti di bawah."
+title: "Tidal Time Series Generator — BIG SRGI"
+version: 1.0.0
+date-released: 2026-10-11
+license: MIT
+authors:
+  - family-names: Priambodo
+    given-names: Yudit Agus
+    affiliation: "Program Studi Teknik Sipil, Universitas Muhammadiyah Maluku Utara"
+    email: sipilummu.yudit@gmail.com
+keywords:
+  - tide
+  - harmonic analysis
+  - UTide
+  - HEC-RAS
+  - boundary condition
+  - BIG SRGI
